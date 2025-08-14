@@ -1,5 +1,2 @@
 # generatedHDL
- repository of HDL  and maybe other hardware description stuff
-
-
-optimized 8 bit rs encoder decoder (255,239), can be synthesized and used as a basic block.
+ repository of HDL  and maybe other codes/ models/ ai models, for personal experimentation and usage no guarentees for anything whatsoever. 
